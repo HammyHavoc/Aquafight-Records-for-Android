@@ -7,7 +7,7 @@ define( function ( require ) {
 		wp_ws_url : 'https://www.aquafightrecords.com/wp-appkit-api/aquafight-records-android',
 		wp_url : 'https://www.aquafightrecords.com',
 		theme : 'q-android',
-		version : '11',
+		version : '12',
 		app_title : 'Aquafight Records',
 		app_platform : 'android',
 		gmt_offset : -5,
